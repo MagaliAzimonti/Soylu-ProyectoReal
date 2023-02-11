@@ -1,0 +1,399 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+a {
+    text-decoration: none;
+}
+
+/*Contac.html */
+
+
+.titleContact {
+    text-align: center;
+    font-family: 'Poppins';
+    margin-bottom: 45px;
+
+}
+
+.h1TitleContac {
+    font-weight: 800;
+}
+
+.divDelButtonDelFormulario {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: -400px;
+}
+
+
+.buttonDelformulario1 {
+    background-color: #555555;
+    border-radius: 100px;
+
+}
+
+.divContacIformation {
+    margin-top: 25px;
+    text-align: center;
+    background-color: #D9D9D9;
+
+
+}
+
+.pContacInformation {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    text-align: center;
+    padding: 15px;
+    font-size: 11.5px;
+
+}
+
+.textAreaContact {
+    height: 140px;
+}
+
+/* HOW.html */
+.mainHow {
+    height: 735px;
+    display: flex;
+    align-items: center;
+}
+
+.mainComoLoHacemostitle {
+    text-align: center;
+    position: absolute;
+    width: 249px;
+    height: 36px;
+    left: 70px;
+    top: 125px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+
+}
+
+.twitterVerifiedBadge {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 165px;
+    top: 193px;
+
+}
+
+.textosDehow {
+    position: absolute;
+    width: 359px;
+    height: 48px;
+    left: 15px;
+    top: 269px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.glutenImageshow {
+    position: absolute;
+    width: 62px;
+    height: 65px;
+    left: 163px;
+    top: 349px;
+
+}
+
+.textoDeHow1 {
+    position: absolute;
+    width: 359px;
+    height: 96px;
+    left: 15px;
+    top: 430px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+.casaDeGluten {
+    position: absolute;
+    width: 67.5px;
+    height: 60px;
+    left: 161px;
+    top: 558px;
+}
+
+.textoHow2 {
+    position: absolute;
+    width: 359px;
+    height: 48px;
+    left: 15px;
+    top: 634px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.divDelButtonDeHow {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    position: absolute;
+    width: 143px;
+    height: 44px;
+    left: 123px;
+    top: 746px;
+    color: white;
+    background: #555555;
+    border-radius: 100px;
+}
+
+
+
+.productMainH1 {
+    text-align: center;
+    position: absolute;
+    width: 126px;
+    height: 36px;
+    left: 132px;
+    top: 125px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.divContainerProductOne {
+    position: absolute;
+    width: 358px;
+    height: 188px;
+    left: 16px;
+    top: 193px;
+
+}
+
+.parrafoLoMasVendido {
+    position: absolute;
+    width: 143px;
+    height: 24px;
+    left: 32px;
+    top: 341px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.divContainerProductTwo {
+    position: absolute;
+    width: 358px;
+    height: 188px;
+    left: 16px;
+    top: 413px;
+}
+
+.parrafoCongelado {
+    position: absolute;
+    width: 98px;
+    height: 24px;
+    left: 32px;
+    top: 561px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.divContainerProductThree {
+    position: absolute;
+    width: 358px;
+    height: 188px;
+    left: 16px;
+    top: 633px;
+
+}
+
+.parrafoBakery {
+    position: absolute;
+    width: 54px;
+    height: 24px;
+    left: 32px;
+    top: 777px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.divContainerProductFour {
+    position: absolute;
+    width: 358px;
+    height: 188px;
+    left: 16px;
+
+    top: 853px;
+}
+
+.productAlmuerzos {
+    position: absolute;
+    width: 9px;
+    height: 24px;
+    left: 32px;
+    top: 997px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+
+/* BAKERY HTML */
+
+/* Bakery div1 */
+.bakeryDivBakery {
+    height: 735px;
+}
+
+main div.bakeryDivBakery h1 {
+    text-align: center;
+    position: absolute;
+    width: 88px;
+    height: 36px;
+    left: 151px;
+    top: 125px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+main div.bakeryDivBakery div img {
+    position: absolute;
+    width: 358px;
+    height: 188px;
+    left: 15px;
+    top: 193px;
+}
+
+main div.bakeryDivBakery div h2 {
+    position: absolute;
+    width: 126px;
+    height: 36px;
+    left: 131px;
+    top: 269px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    color: #000000;
+}
+
+main div.bakeryDivBakery div.bakerydivtwo {
+    position: absolute;
+    width: 359px;
+    height: 304px;
+    left: 16px;
+    top: 414px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+main div.bakeryDivBakery button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    position: absolute;
+    width: 143px;
+    height: 44px;
+    left: 124px;
+    top: 641px;
+
+    background: #555555;
+    border-radius: 100px;
+}
+
+/* bekery div 2 */
+.BakeryDivBakery2 {
+    height: 844px;
+    position: relative;
+}
+
+div.BakeryDivBakery2 img {
+    position: absolute;
+    width: 358px;
+    height: 188px;
+    left: 15px;
+    top: 32px;
+}
+div.BakeryDivBakery2 h2 {
+    position: absolute;
+    width: 77px;
+    height: 36px;
+    left: 156px;
+    top: 108px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
